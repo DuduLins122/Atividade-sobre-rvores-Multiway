@@ -27,4 +27,6 @@ O arquivo `Principal.java` contém testes de inserção, busca e remoção.
 
 ---
 
+## Link do video
+- https://youtu.be/awe78_rK4oY
 
