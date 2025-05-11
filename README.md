@@ -2,7 +2,7 @@
 
 ## Estrutura Escolhida: Árvore 2-3
 
-### ✅ Regras Seguidas
+### Regras Seguidas
 - Nenhum uso de listas, arrays, estruturas prontas ou StringBuilder.
 - Apenas `String`, `int`, `try-catch` e input/output básico.
 - Manipulação direta dos filhos e chaves nos nós.
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Operações Implementadas
+### Operações Implementadas
 
 ### Inserção
 A inserção é feita recursivamente nos nós folha. Se o nó ainda não está cheio, a chave é inserida nele. Caso contrário, ela é redirecionada para os filhos esquerdo, centro ou direito, conforme a ordenação da chave.
@@ -23,20 +23,18 @@ A remoção é feita localizando a chave e removendo-a diretamente do nó. Não 
 
 ---
 
-## ▶ Testes
+##  Testes
 
 O arquivo `Principal.java` contém testes de inserção, busca e remoção.
 
 ---
 
-## 🎓 Autores
-Grupo composto por 4 integrantes conforme a exigência da atividade.
+## Autores
+- Carolos Jeronimo
+- Guilherme Oliveira
+- Miguel Rezende
+- Marcelo Eduardo
 
 ---
 
-## 📽 Requisitos do Vídeo
-No vídeo explicativo enviado ao YouTube, foram abordados:
-- A estrutura da Árvore 2-3.
-- Como funciona a inserção, busca e remoção.
-- Exemplos práticos.
 
