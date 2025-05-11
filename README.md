@@ -20,7 +20,7 @@ O arquivo `Principal.java` contém testes de inserção, busca e remoção.
 ---
 
 ## Autores
-- Carolos Jeronimo
+- Carlos Jeronimo
 - Guilherme Oliveira
 - Miguel Rezende
 - Marcelo Eduardo
