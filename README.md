@@ -1,6 +1,4 @@
-# Projeto Árvore 2-3 (Atividade Árvores Multiway)
-
-## Estrutura Escolhida: Árvore 2-3
+# Projeto Árvore 2-3 
 
 ### Regras Seguidas
 - Nenhum uso de listas, arrays, estruturas prontas ou StringBuilder.
