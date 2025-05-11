@@ -1,14 +1,6 @@
 # Projeto Árvore 2-3 
 
-### Regras Seguidas
-- Nenhum uso de listas, arrays, estruturas prontas ou StringBuilder.
-- Apenas `String`, `int`, `try-catch` e input/output básico.
-- Manipulação direta dos filhos e chaves nos nós.
-- Nomes de variáveis e métodos em **português**.
 
----
-
-### Operações Implementadas
 
 ### Inserção
 A inserção é feita recursivamente nos nós folha. Se o nó ainda não está cheio, a chave é inserida nele. Caso contrário, ela é redirecionada para os filhos esquerdo, centro ou direito, conforme a ordenação da chave.
